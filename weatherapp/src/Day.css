@@ -1,0 +1,21 @@
+.forecast-dayes {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+
+.forecast-dayes > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    gap: 6px;
+    width: 100px;
+    height: 100px;
+    background-image: url("https://play-lh.googleusercontent.com/bcEoKP-B53l7ho0aBDX7q-DUYmjAssESKtlvnifjv6GpkNH3qoJ6UMGf2o9KSh3znsk");
+    background-size: cover;
+    border-radius: 8px;
+    font-weight: 500;
+    color:#176c87;
+    font-weight: bold;
+}

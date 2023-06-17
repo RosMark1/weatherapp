@@ -1,0 +1,13 @@
+.header {
+    background-image: url("https://media.istockphoto.com/id/1411144265/photo/wispy-storm-clouds-blue-sky-cloudscape-colorado-outdoors-background-photo-series.webp?b=1&s=170667a&w=0&k=20&c=lx-DUsb1RHl5yGqS9eKdTQmaH02jE6eQYk_UVnLk0pY=");
+    height: 120px;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 40px;
+    margin: 0;
+    color: aliceblue;
+    text-shadow:  -1px 0px #000
+}
